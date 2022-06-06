@@ -1,0 +1,19 @@
+
+Types of Locators in Selenium:- 
+
+
+1. ClassName – A ClassName operator uses a class attribute to identify an object.
+
+2.cssSelector – CSS is used to create style rules for webpages and can be used to identify any web element.
+
+3.Id – Similar to class, we can also identify elements by using the ‘id’ attribute.
+
+4.linkText – Text used in hyperlinks can also locate element
+
+5.name – Name attribute can also identify an element
+
+6.partialLinkText – Part of the text in the link can also identify an element
+
+7.tagName – We can also use a tag to locate elements
+
+8.xpath – Xpath is the language used to query the XML document. The same can uniquely identify the web element on any page.
